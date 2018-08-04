@@ -1,0 +1,8 @@
+[package]
+name = "rtklib_rust"
+version = "0.1.0"
+authors = ["xoke"]
+build = "build.rs"
+
+[build-dependencies]
+cc = "1.0"
